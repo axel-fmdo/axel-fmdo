@@ -104,7 +104,6 @@ Classic tic-tac-toe game with an interactive UI.
 ## 📈 Coding Activity
 
 <!--START_SECTION:activity-->
-<!-- This section will be automatically updated with your recent activity -->
 <!--END_SECTION:activity-->
 
 ---
