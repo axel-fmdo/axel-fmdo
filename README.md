@@ -81,16 +81,6 @@ Classic tic-tac-toe game with an interactive UI.
 
 ---
 
-## 🏆 GitHub Achievements
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=axel-fmdo&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1&column=7)
-
-</div>
-
----
-
 ## 📈 Recent Activity
 
 <!--START_SECTION:activity-->
