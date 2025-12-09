@@ -54,9 +54,47 @@ Classic tic-tac-toe game with an interactive UI.
 
 ## 📊 GitHub Stats
 
-![Axel's GitHub stats](https://github-readme-stats.vercel.app/api?username=axel-fmdo&show_icons=true&theme=radical)
+<div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=axel-fmdo&layout=compact&theme=radical)
+<!-- GitHub Streak Stats -->
+![GitHub Streak](https://streak-stats.demolab.com/?user=axel-fmdo&theme=radical&hide_border=true)
+
+<!-- Profile Summary Cards -->
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=axel-fmdo&theme=radical)
+
+<!-- Languages -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=axel-fmdo&theme=radical" width="400"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=axel-fmdo&theme=radical" width="400"/>
+
+<!-- Stats Overview -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=axel-fmdo&theme=radical" width="400"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=axel-fmdo&theme=radical" width="400"/>
+
+</div>
+
+---
+
+## 🎯 Contribution Activity
+
+<!-- Activity Graph (Alternativa confiable) -->
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=axel-fmdo&theme=react-dark&hide_border=true&area=true)
+
+---
+
+## 🏆 GitHub Achievements
+
+<div align="center">
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=axel-fmdo&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1&column=7)
+
+</div>
+
+---
+
+## 📈 Recent Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 ---
 
@@ -105,11 +143,6 @@ Classic tic-tac-toe game with an interactive UI.
 
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
-
----
-
-### Recent Contributions
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=axel-fmdo&theme=radical&hide_border=true)
 
 ---
 
