@@ -107,6 +107,8 @@ Classic tic-tac-toe game with an interactive UI.
 <!-- This section will be automatically updated with your recent activity -->
 <!--END_SECTION:activity-->
 
+---
+
 ### Recent Contributions
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=axel-fmdo&theme=radical&hide_border=true)
 
