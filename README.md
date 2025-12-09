@@ -1,16 +1,128 @@
-## Hi there 👋
+# Hi there, I'm Axel Flores 👋
 
-<!--
-**axel-fmdo/axel-fmdo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
 
-Here are some ideas to get you started:
+I'm a **Computer Engineering student** and **Software Developer** passionate about building scalable web applications and solving complex problems through code. Currently exploring the world of cloud technologies and modern software architecture.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Studying Computer Engineering at Universidad de Guadalajara
+- 💼 Frontend Developer with experience in React, Redux, and TypeScript
+- 🌱 Currently learning: Data Structures & Algorithms, Cloud Computing, Python
+- 🎯 Goal: Contribute to innovative software solutions that make a difference
+- 📍 Based in Guadalajara, Mexico
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+### Frontend Development
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+
+### Tools & Technologies
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+
+---
+
+## 💻 Featured Projects
+
+### 🎵 [Mood Playlist Generator](https://github.com/axel-fmdo/mood-playlist-generator-app)
+A frontend application that creates personalized Spotify playlists based on your current mood.
+- **Tech Stack:** TypeScript, React, Spotify API
+- **Features:** User authentication, playlist creation, song management
+- 🔗 [Live Demo](#) | [Repository](https://github.com/axel-fmdo/mood-playlist-generator-app)
+
+### 🎮 [Tic-Tac-Toe Web Game](https://github.com/axel-fmdo/tic-tac-toe-webgame)
+Classic tic-tac-toe game with an interactive UI.
+- **Tech Stack:** JavaScript, HTML, CSS
+- **Features:** Two-player mode, win detection, responsive design
+- 🔗 [Live Demo](#) | [Repository](https://github.com/axel-fmdo/tic-tac-toe-webgame)
+
+---
+
+## 📊 GitHub Stats
+
+![Axel's GitHub stats](https://github-readme-stats.vercel.app/api?username=axel-fmdo&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=axel-fmdo&layout=compact&theme=radical)
+
+---
+
+## 🎯 Current Focus
+
+- 📚 Deepening knowledge in **Data Structures & Algorithms**
+- ☁️ Exploring **Cloud Technologies** (AWS, Azure, Oracle Cloud)
+- 🐍 Building projects with **Python** and **FastAPI**
+- 🔧 Learning **DevOps** practices (Docker, CI/CD)
+- 💡 Contributing to **Open Source** projects
+
+---
+
+## 📫 Let's Connect!
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/axel-fmdo)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:axelfloresmontesdeoca@gmail.com)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/axel-fmdo)
+
+---
+
+## 💼 Professional Experience
+
+**Frontend Developer @ NUBITEC** *(June 2024 - September 2025)*
+- Developing dynamic web applications with React, Redux, and TypeScript
+- Collaborating with cross-functional teams in Agile environments
+- Managing version control with Git/GitHub
+
+**ERP Consultant @ HG Consulting** *(Feb 2022 - May 2024)*
+- Implemented Odoo ERP solutions for 20+ companies
+- Provided technical support and training
+- Analyzed business requirements and proposed solutions
+
+---
+
+## 🏆 Achievements & Certifications
+
+- 🎓 Bachelor's Degree in Political Studies and Government - UdG (2022)
+- 📖 Currently pursuing Computer Engineering Degree - UdG
+- 💻 3+ years of professional experience in tech industry
+- 🌐 Bilingual: Spanish (Native), English (Intermediate)
+
+---
+
+## 📈 Coding Activity
+
+<!--START_SECTION:activity-->
+<!-- This section will be automatically updated with your recent activity -->
+<!--END_SECTION:activity-->
+
+---
+
+## 🤝 Open for Opportunities
+
+I'm actively seeking **Software Engineering Internships** and **Junior Developer** positions where I can contribute my skills and continue learning. If you have an exciting opportunity or just want to chat about tech, feel free to reach out!
+
+---
+
+<div align="center">
+
+### "Code is like humor. When you have to explain it, it's bad." – Cory House
+
+![Profile Views](https://komarev.com/ghpvc/?username=axel-fmdo&color=brightgreen)
+
+</div>
+
+---
+
+⭐️ From [axel-fmdo](https://github.com/axel-fmdo)
