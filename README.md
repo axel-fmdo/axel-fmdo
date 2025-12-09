@@ -129,13 +129,6 @@ Classic tic-tac-toe game with an interactive UI.
 
 ---
 
-## 📈 Coding Activity
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
----
-
 ## 🤝 Open for Opportunities
 
 I'm actively seeking **Software Engineering Internships** and **Junior Developer** positions where I can contribute my skills and continue learning. If you have an exciting opportunity or just want to chat about tech, feel free to reach out!
